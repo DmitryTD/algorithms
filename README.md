@@ -1,4 +1,4 @@
 ![Header](https://github.com/DmitryTD/algorithms/blob/main/assets/tenor.gif)
 
-## Курс: Алгоритмы: теория и практика. Методы.
+## РљСѓСЂСЃ: РђР»РіРѕСЂРёС‚РјС‹: С‚РµРѕСЂРёСЏ Рё РїСЂР°РєС‚РёРєР°. РњРµС‚РѕРґС‹.
 ## https://stepik.org/course/217/promo
