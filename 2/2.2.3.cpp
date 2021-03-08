@@ -1,6 +1,6 @@
 /*
 http://espressocode.top/fibonacci-number-modulo-m-and-pisano-period/
-https://ru.wikipedia.org/wiki/Период_Пизано
+https://ru.wikipedia.org/wiki/РџРµСЂРёРѕРґ_РџРёР·Р°РЅРѕ
 
 */
 
@@ -19,7 +19,7 @@ int main() {
 	Pisano.push_back(1);
 	Pisano.push_back(1);
 
-	//Период Пизано
+	//РџРµСЂРёРѕРґ РџРёР·Р°РЅРѕ
 	while (val3 % m != 1 || val2 % m != 0) {
 		Pisano.push_back(val3 % m);
 		temp = val3;
