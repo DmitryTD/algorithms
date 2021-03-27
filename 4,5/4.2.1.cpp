@@ -68,7 +68,7 @@ int main() {
 	set <char> l;
 
 	getline(cin, s);
-	//список символов и их приоритет
+	//СЃРїРёСЃРѕРє СЃРёРјРІРѕР»РѕРІ Рё РёС… РїСЂРёРѕСЂРёС‚РµС‚
 	for (int i = 0; i < s.size(); i++) {
 		temp = s[i];
 		sym_and_val[temp] = sym_and_val[temp] + 1;
